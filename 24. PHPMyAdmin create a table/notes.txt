@@ -1,0 +1,4 @@
+1. Go to Databases
+2. Click on the previous created Database
+3. Put the name of the Table and the number of columns
+4. Set the structure of the collumns (You can use either SQL or phpMyAdmin interface).
