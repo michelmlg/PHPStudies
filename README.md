@@ -4,7 +4,7 @@ My studies in PHP 🐘
 
 > ### Description:
 
-This repository is dedicated to storing my PHP studies, which are based on the 4-hour video from the BroCode channel. Others who are interested in following the complete video are welcome to use my notes.
+This repository is dedicated to storing my PHP studies, which are based on the 4-hour video from the BroCode Youtube channel. Others who are interested in following the complete video are welcome to use my notes.
 
 > #### Course link:
 [BroCode PHP Course](https://www.youtube.com/watch?v=zZ6vybT1HQs)
